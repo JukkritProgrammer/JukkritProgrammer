@@ -1,6 +1,6 @@
-- 👋 Hi, I’m NineCoding
-- 👀 I’m interested in application development
-- 🌱 I’m currently learning application development
+- 👋 Hi, I’m Nine
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
 
 <!---
 JukkritProgrammer/JukkritProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
